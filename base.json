@@ -1,9 +1,9 @@
 {
     "acenocumarol": {
         "Potencia": {
-            "4": {
+            "4 mg": {
                 "Unidades": {
-                    "20": {
+                    "20 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -23,7 +23,8 @@
                             6357.46857331948,
                             6785.64408173255,
                             7243.33577504541
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -31,9 +32,9 @@
     },
     "acetilsalic\u00edlico,\u00e1c.": {
         "Potencia": {
-            "500": {
+            "500 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -53,7 +54,8 @@
                             708.255909379259,
                             755.956944875952,
                             806.946240807835
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -61,31 +63,9 @@
     },
     "allopurinol": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            748.51,
-                            791.35149068095,
-                            836.062849904424,
-                            883.342204066519,
-                            943.851145045075,
-                            1031.15737596175,
-                            1100.60582523277,
-                            1174.84168814472
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -105,79 +85,14 @@
                             1938.47256167145,
                             2069.02868870003,
                             2208.58467375284
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "300": {
+            "300 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1572.83,
-                            1662.85639253378,
-                            1756.80777871194,
-                            1856.1552585981,
-                            1983.30189381207,
-                            2166.75731898968,
-                            2312.68842442364,
-                            2468.67925865101
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1710.29,
-                            1808.18002428073,
-                            1910.34219565259,
-                            2018.37204681674,
-                            2156.63053202369,
-                            2356.11885623588,
-                            2514.80346120337,
-                            2684.42695466153
-                        ]
-                    },
-                    "50": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2887.51,
-                            3052.78427264354,
-                            3225.2665840479,
-                            3407.65540937581,
-                            3641.07980491805,
-                            3977.87968687297,
-                            4245.78988378387,
-                            4532.16841144509
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -195,7 +110,8 @@
                             4307.15458863556,
                             4597.24145018017,
                             4907.32538599482
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -203,9 +119,9 @@
     },
     "amantadina": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -225,7 +141,8 @@
                             4725.39512795819,
                             5043.65048982617,
                             5383.84471536495
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -233,31 +150,9 @@
     },
     "amiodarona": {
         "Potencia": {
-            "200": {
+            "200 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1868.73,
-                            1975.69337624962,
-                            2087.32005200772,
-                            2205.35800094876,
-                            2356.42502401375,
-                            2574.39433873502,
-                            2747.77979744882,
-                            2933.11754478674
-                        ]
-                    },
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -277,7 +172,8 @@
                             6356.35846231272,
                             6784.45920474948,
                             7242.07097810984
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -285,31 +181,9 @@
     },
     "amlodipina": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3628.54,
-                            3836.23178796006,
-                            4052.9788839798,
-                            4282.17483986886,
-                            4575.50381639988,
-                            4998.73791941687,
-                            5335.40291828959,
-                            5695.27584512823
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -329,35 +203,14 @@
                             10670.1405568501,
                             11388.774523354,
                             12156.9473649542
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "5": {
+            "5 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2038.59,
-                            2155.27650859427,
-                            2277.04963132985,
-                            2405.81678798155,
-                            2570.61523795829,
-                            2808.39714746943,
-                            2997.54269535149,
-                            3199.72695015295
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -377,7 +230,8 @@
                             5901.96847315593,
                             6299.46604982298,
                             6724.36503488354
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -385,75 +239,9 @@
     },
     "atenolol": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2114.76,
-                            2235.80528394967,
-                            2362.12828249283,
-                            2495.7066368678,
-                            2666.66254149325,
-                            2913.32882658137,
-                            3109.54152305163,
-                            3319.28009878146
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2241.58,
-                            2369.88317248646,
-                            2503.78157173194,
-                            2645.37041961338,
-                            2826.5782933569,
-                            3088.03678549241,
-                            3296.01606299533,
-                            3518.33234644436
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            4342.4,
-                            4590.95324333344,
-                            4850.34210158178,
-                            5124.62894742623,
-                            5475.66603032493,
-                            5982.16513812999,
-                            6385.06396018304,
-                            6815.73652429739
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -471,79 +259,14 @@
                             6199.30714679738,
                             6616.83048313418,
                             7063.13569922158
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "25": {
+            "25 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1154.09,
-                            1220.15063098316,
-                            1289.0891416337,
-                            1361.98713259309,
-                            1455.28325117572,
-                            1589.89695190947,
-                            1696.97651162057,
-                            1811.43757732938
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1162.22,
-                            1228.74612376196,
-                            1298.17027975451,
-                            1371.58180907463,
-                            1465.53516299624,
-                            1601.09716557339,
-                            1708.93105967476,
-                            1824.19845964982
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2247.88,
-                            2376.54010301237,
-                            2510.81461883257,
-                            2652.80118552755,
-                            2834.51806673619,
-                            3096.71098790928,
-                            3305.27447294497,
-                            3528.21523614511
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -561,79 +284,14 @@
                             3105.60958649198,
                             3314.77239214222,
                             3538.35378999221
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1594.85,
-                            1686.13880425606,
-                            1781.40564669653,
-                            1882.14413601722,
-                            2011.0710093344,
-                            2197.09507769783,
-                            2345.06943118078,
-                            2503.24436431392
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1689.21,
-                            1785.89559545316,
-                            1886.79869659626,
-                            1993.49716288878,
-                            2130.05171854666,
-                            2327.08150251223,
-                            2483.81044170643,
-                            2651.34345599953
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3338.9,
-                            3530.01240539497,
-                            3729.45810629979,
-                            3940.35896221104,
-                            4210.2735511225,
-                            4599.72385460133,
-                            4909.51525620873,
-                            5240.66206024001
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -651,7 +309,8 @@
                             4666.64365222571,
                             4980.94210220311,
                             5316.90664699671
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -659,31 +318,9 @@
     },
     "atorvastat\u00edn": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            4283.07,
-                            4528.22173320495,
-                            4784.06626113103,
-                            5054.60520819799,
-                            5400.84566495956,
-                            5900.42388896832,
-                            6297.81743789033,
-                            6722.60522407604
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -703,35 +340,14 @@
                             10595.987703973,
                             11309.6274758355,
                             12072.4618490807
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "20": {
+            "20 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            6868.29,
-                            7261.42128701998,
-                            7671.69158973661,
-                            8105.52574913621,
-                            8660.75426295205,
-                            9461.87403227511,
-                            10099.1312483488,
-                            10780.31765105
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -751,13 +367,14 @@
                             17426.5255986679,
                             18600.2020977382,
                             19854.7857292306
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "40": {
+            "40 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -777,13 +394,14 @@
                             10824.747442596,
                             11553.7941828549,
                             12333.0976004884
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "80": {
+            "80 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -803,7 +421,8 @@
                             16103.672707554,
                             17188.2550644077,
                             18347.602868502
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -811,9 +430,9 @@
     },
     "bezafibrato": {
         "Potencia": {
-            "400": {
+            "400 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -833,7 +452,8 @@
                             7033.02425251847,
                             7506.69843592559,
                             8013.02524542877
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -841,31 +461,9 @@
     },
     "biperideno": {
         "Potencia": {
-            "2": {
+            "2 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1094.23,
-                            1156.86221979425,
-                            1222.22493521262,
-                            1291.3417552989,
-                            1379.79866553687,
-                            1507.43004209903,
-                            1608.9554554344,
-                            1717.47950090345
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -885,7 +483,8 @@
                             4037.43190459098,
                             4309.35294336519,
                             4600.01879939517
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -893,9 +492,9 @@
     },
     "brimonidina": {
         "Potencia": {
-            "0.2": {
+            "0.2 g %": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 5 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -915,7 +514,8 @@
                             4645.46525137272,
                             4958.33733605267,
                             5292.77718936942
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Gotas oft\u00e1lmicas/Colirios"
                     }
                 }
             }
@@ -923,9 +523,9 @@
     },
     "budesonide": {
         "Potencia": {
-            "0.1": {
+            "0.1 g %": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 20 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -945,13 +545,14 @@
                             1293.34074449529,
                             1380.44724363705,
                             1473.55841022037
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "200": {
+            "200 mcg/dosis": {
                 "Unidades": {
-                    "200": {
+                    "200 dosis": {
                         "Meses": [
                             "enero",
                             "enero",
@@ -987,13 +588,14 @@
                             3544.59770370206,
                             5341.81318624428,
                             3783.68081881676
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluc.p/nebulizar CON APLICADOR"
                     }
                 }
             },
-            "50": {
+            "50 mcg/dosis": {
                 "Unidades": {
-                    "200": {
+                    "200 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1013,7 +615,8 @@
                             2727.18457642808,
                             2910.86045765052,
                             3107.19799551904
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Aerosoles nasales"
                     }
                 }
             }
@@ -1021,9 +624,9 @@
     },
     "budesonide+formoterol": {
         "Potencia": {
-            "160/4.5": {
+            "160/4.5 mcg/dosis": {
                 "Unidades": {
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1043,35 +646,14 @@
                             18769.7282639871,
                             20033.8694625667,
                             21385.1539578168
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "200/6": {
+            "200/6 mcg/dosis": {
                 "Unidades": {
-                    "60": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            7510.23,
-                            8131.17653775465,
-                            8590.58801213779,
-                            9076.38576422418,
-                            9698.11818907354,
-                            10595.1941215628,
-                            11308.7804456501,
-                            12071.5576867092
-                        ]
-                    },
-                    "120": {
+                    "120 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1091,13 +673,14 @@
                             13984.3811125478,
                             14926.2291804779,
                             15933.0033387011
-                        ]
+                        ],
+                        "Forma Farmaceutica": "C\u00e1psulas para inhalar+aplicador"
                     }
                 }
             },
-            "400/12": {
+            "400/12 mcg/dosis": {
                 "Unidades": {
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1117,13 +700,14 @@
                             13831.4646402359,
                             14763.0137837557,
                             15758.7790634701
-                        ]
+                        ],
+                        "Forma Farmaceutica": "C\u00e1psulas para inhalar+aplicador"
                     }
                 }
             },
-            "80/4.5": {
+            "80/4.5 mcg/dosis": {
                 "Unidades": {
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1143,7 +727,8 @@
                             14721.7148837747,
                             15713.2223811969,
                             16773.0792308087
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             }
@@ -1151,31 +736,9 @@
     },
     "carbamazepina": {
         "Potencia": {
-            "200": {
+            "200 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2372.28,
-                            2508.06837804835,
-                            2649.77424140808,
-                            2799.61897475971,
-                            2991.39287453075,
-                            3268.09671542484,
-                            3488.20302920871,
-                            3723.48232352884
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1195,7 +758,8 @@
                             6379.61351685147,
                             6809.28048721142,
                             7268.56645607383
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -1203,31 +767,9 @@
     },
     "carvedilol": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2368.96,
-                            2504.55736375547,
-                            2646.06485480765,
-                            2795.69982234702,
-                            2987.20526017779,
-                            3263.52174674424,
-                            3483.31993638746,
-                            3718.2698660968
-                        ]
-                    },
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1247,79 +789,14 @@
                             3536.46661653858,
                             3774.64764316245,
                             4029.24762669376
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "12.5": {
+            "12.5 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2141.23,
-                            2263.78596547752,
-                            2391.689872527,
-                            2526.93993481841,
-                            2700.03532035347,
-                            2949.78858748616,
-                            3148.45684885336,
-                            3360.82026330851
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2179.64,
-                            2304.40019662288,
-                            2434.59880773208,
-                            2572.27537030932,
-                            2748.47623317551,
-                            3002.71028474425,
-                            3204.94282242177,
-                            3421.11621579412
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3564.93,
-                            3768.984340166,
-                            3981.93195538537,
-                            4207.11020746242,
-                            4495.29725667359,
-                            4911.1122529159,
-                            5241.87566314979,
-                            5595.44017662924
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -1337,35 +814,14 @@
                             5135.03550994637,
                             5480.88015154126,
                             5850.56551776272
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "20": {
+            "20 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3826.91,
-                            4045.95625938048,
-                            4274.55278803548,
-                            4516.27874819889,
-                            4825.64384245051,
-                            5272.01589787719,
-                            5627.08616859921,
-                            6006.63313067123
-                        ]
-                    },
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1385,79 +841,14 @@
                             5506.920813112,
                             5877.81192987509,
                             6274.27034454516
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "25": {
+            "25 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2615.8,
-                            2765.52338402566,
-                            2921.77545522311,
-                            3087.00185721598,
-                            3298.46148443527,
-                            3603.56917174553,
-                            3846.2695554626,
-                            4105.70043697855
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2661.75,
-                            2814.10470550699,
-                            2973.10162136813,
-                            3141.2305180565,
-                            3356.40480854337,
-                            3666.87225333363,
-                            3913.83609959565,
-                            4177.82434451338
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            4457.33,
-                            4712.46337220014,
-                            4978.71755272945,
-                            5260.2640303363,
-                            5620.59211641434,
-                            6140.49688718266,
-                            6554.05935253442,
-                            6996.13065586286
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -1475,79 +866,14 @@
                             6444.46871902234,
                             6878.50368724849,
                             7342.45876095341
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "3.125": {
+            "3.125 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            956.65,
-                            1011.40404398999,
-                            1068.54837247543,
-                            1128.97478293891,
-                            1206.30955557023,
-                            1317.89318946048,
-                            1406.65329577064,
-                            1501.53206057037
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            965.07,
-                            1020.30629143572,
-                            1077.95359690184,
-                            1138.91187280664,
-                            1216.9273360939,
-                            1329.49311468258,
-                            1419.03447595646,
-                            1514.74835135972
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1571.82,
-                            1661.78698055329,
-                            1755.67794495455,
-                            1854.96153274173,
-                            1982.02639773454,
-                            2165.36383952499,
-                            2311.20109411699,
-                            2467.09160791519
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1567,35 +893,14 @@
                             2355.38707226605,
                             2514.02239158317,
                             2683.59320189545
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "40": {
+            "40 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            4840.29,
-                            5117.34107073034,
-                            5406.4708412266,
-                            5712.20676729797,
-                            6103.49293085788,
-                            6668.06602696223,
-                            7117.16027387814,
-                            7597.21273435122
-                        ]
-                    },
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1615,35 +920,14 @@
                             6929.70328946165,
                             7396.41880600689,
                             7895.30725447206
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3521.91,
-                            3723.49297731406,
-                            3933.87033053231,
-                            4156.33069772391,
-                            4441.039350518,
-                            4851.83549044091,
-                            5178.60661072211,
-                            5527.90362661532
-                        ]
-                    },
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1663,79 +947,14 @@
                             5440.91593385979,
                             5807.36162200525,
                             6199.0681634095
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "6.25": {
+            "6.25 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1753.46,
-                            1853.82349927483,
-                            1958.56452698385,
-                            2069.32135098479,
-                            2211.06986352725,
-                            2415.59382590352,
-                            2578.28407007812,
-                            2752.18933060489
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1767.75,
-                            1868.92887120256,
-                            1974.52335242551,
-                            2086.18264800517,
-                            2229.08615939352,
-                            2435.27662913742,
-                            2599.29251010983,
-                            2774.61478991674
-                        ]
-                    },
-                    "56": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2724.83,
-                            2880.79257726475,
-                            3043.55735788021,
-                            3215.67052646833,
-                            3435.94395753142,
-                            3753.76877360307,
-                            4006.58510050524,
-                            4276.82926553432
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1755,13 +974,14 @@
                             4132.76654969897,
                             4411.1083768212,
                             4708.63763683779
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "80": {
+            "80 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1781,7 +1001,8 @@
                             8419.84003661654,
                             8986.91626308266,
                             9593.08376502758
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -1789,75 +1010,9 @@
     },
     "clopidogrel": {
         "Potencia": {
-            "75": {
+            "75 mg": {
                 "Unidades": {
-                    "15": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2286.93,
-                            2417.82582540129,
-                            2554.43298453646,
-                            2698.886169812,
-                            2883.75987244412,
-                            3150.5076606452,
-                            3362.69435158966,
-                            3589.50808560438
-                        ]
-                    },
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            13545.65,
-                            14320.9799290396,
-                            15130.1152950304,
-                            15985.7233149643,
-                            17080.7453620394,
-                            18660.714308028,
-                            19917.5134166737,
-                            21260.9496966284
-                        ]
-                    },
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            6350.84,
-                            6733.34287486432,
-                            7113.77674729415,
-                            7516.06082235364,
-                            8030.91098868486,
-                            8773.77025513821,
-                            9364.68368182177,
-                            9996.33159616065
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1877,7 +1032,8 @@
                             7799.19377889853,
                             8324.46947990734,
                             8885.95494632709
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -1885,9 +1041,9 @@
     },
     "clozapina": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "90": {
+                    "90 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1907,7 +1063,8 @@
                             42705.1097737089,
                             45581.2989169682,
                             48655.7575289177
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -1915,9 +1072,9 @@
     },
     "diltiazem": {
         "Potencia": {
-            "120": {
+            "120 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1937,13 +1094,14 @@
                             6493.83662914372,
                             6931.19652611655,
                             7398.70573180311
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "180": {
+            "180 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1963,13 +1121,14 @@
                             6587.3911777154,
                             7031.05197353454,
                             7505.29642914944
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "240": {
+            "240 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -1989,13 +1148,14 @@
                             9818.39526345207,
                             10479.6641844456,
                             11186.5175336864
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "300": {
+            "300 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2015,13 +1175,14 @@
                             11227.6785487949,
                             11983.8626990562,
                             12792.1742381076
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "60": {
+            "60 mg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2041,7 +1202,8 @@
                             2745.51742287932,
                             2930.42802131025,
                             3128.08539134762
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2049,9 +1211,9 @@
     },
     "dorzolamida": {
         "Potencia": {
-            "2": {
+            "2 g %": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 5 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2071,7 +1233,8 @@
                             5156.77386495959,
                             5504.08258476462,
                             5875.33295510699
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Gotas oft\u00e1lmicas/Colirios"
                     }
                 }
             }
@@ -2079,9 +1242,9 @@
     },
     "dorzolamida+timolol": {
         "Potencia": {
-            "2/0.5": {
+            "2/0.5 g %": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 5 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2101,7 +1264,8 @@
                             6450.62670750587,
                             6885.07641625639,
                             7349.47482053288
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Gotas oft\u00e1lmicas/Colirios"
                     }
                 }
             }
@@ -2109,75 +1273,9 @@
     },
     "enalapril": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1317.43,
-                            1392.8333376998,
-                            1471.52842127984,
-                            1554.74335350321,
-                            1661.24327321818,
-                            1814.90827599086,
-                            1937.14234837885,
-                            2067.802599777
-                        ]
-                    },
-                    "50": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2259.95,
-                            2389.30190687902,
-                            2524.29746461769,
-                            2667.04648624182,
-                            2849.73917054938,
-                            3113.3400438252,
-                            3323.02349577683,
-                            3547.16143056698
-                        ]
-                    },
-                    "60": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2550.19,
-                            2707.9680245296,
-                            2860.96821791553,
-                            3022.75597063865,
-                            3229.8147546274,
-                            3528.57261943043,
-                            3766.22198534907,
-                            4020.25365826086
-                        ]
-                    },
-                    "100": {
+                    "100 unidades": {
                         "Meses": [
                             "febrero",
                             "marzo",
@@ -2195,35 +1293,14 @@
                             3744.62373489871,
                             3996.82414344414,
                             4266.40993191945
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "2.5": {
+            "2.5 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            476.35,
-                            503.61492628389,
-                            532.06916961893,
-                            562.15768116088,
-                            600.665482320401,
-                            656.227039435038,
-                            700.423930540987,
-                            747.667524655977
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2243,35 +1320,14 @@
                             1325.97173404505,
                             1415.27593033299,
                             1510.73629183395
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "20": {
+            "20 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1592.42,
-                            1683.56504367566,
-                            1778.68646864333,
-                            1879.27118844511,
-                            2008.0012648536,
-                            2193.74138185256,
-                            2341.48986392033,
-                            2499.42335524176
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2291,57 +1347,14 @@
                             4399.06657988259,
                             4695.34371403768,
                             5012.04464754952
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "5": {
+            "5 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            797.95,
-                            843.621242423262,
-                            891.285842620177,
-                            941.688057020348,
-                            1006.19368892624,
-                            1099.26660515192,
-                            1173.3022110089,
-                            1252.44144514145
-                        ]
-                    },
-                    "50": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1280.5,
-                            1353.78982347494,
-                            1430.27894850128,
-                            1511.16122303902,
-                            1614.6757668172,
-                            1764.03327524779,
-                            1882.84091633573,
-                            2009.83853614257
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2361,7 +1374,8 @@
                             2104.49821654083,
                             2246.23617142486,
                             2397.74480118747
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2369,9 +1383,9 @@
     },
     "espironolactona": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2391,13 +1405,14 @@
                             4711.0032509449,
                             5028.28931989604,
                             5367.44743452302
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "25": {
+            "25 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2417,13 +1432,14 @@
                             3821.19501698206,
                             4078.5525013758,
                             4353.6508675936
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2443,7 +1459,8 @@
                             5871.97550452626,
                             6267.4530547561,
                             6690.1927632994
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2451,9 +1468,9 @@
     },
     "ezetimibe": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2473,7 +1490,8 @@
                             3432.64825140134,
                             3663.83711113322,
                             3910.96292427915
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2481,9 +1499,9 @@
     },
     "fenito\u00edna": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2503,7 +1521,8 @@
                             3955.74755521275,
                             4222.16715305633,
                             4506.95232752998
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2511,9 +1530,9 @@
     },
     "fluticasona": {
         "Potencia": {
-            "125": {
+            "125 mcg/dosis": {
                 "Unidades": {
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2533,13 +1552,14 @@
                             8725.66695212433,
                             9313.34062134991,
                             9941.52544625996
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "250": {
+            "250 mcg/dosis": {
                 "Unidades": {
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2559,35 +1579,14 @@
                             9225.6472333296,
                             9846.99457449435,
                             10511.174358544
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "50": {
+            "50 mcg/dosis": {
                 "Unidades": {
-                    "60": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            834.53,
-                            882.293079593516,
-                            932.14263859055,
-                            984.855304802846,
-                            1052.31789318184,
-                            1149.65729830116,
-                            1227.08671734174,
-                            1309.85371642644
-                        ]
-                    },
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2607,7 +1606,8 @@
                             2053.46024125247,
                             2191.76078850082,
                             2339.5950536852
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             }
@@ -2615,9 +1615,9 @@
     },
     "fluticasona+salmeterol": {
         "Potencia": {
-            "125/25": {
+            "125/25 mcg/dosis": {
                 "Unidades": {
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2637,13 +1637,14 @@
                             12697.3878968743,
                             13552.5569717287,
                             14466.6769394719
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "250/25": {
+            "250/25 mcg/dosis": {
                 "Unidades": {
-                    "120": {
+                    "120 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2663,13 +1664,14 @@
                             15925.0526059165,
                             16997.6048989249,
                             18144.0933493574
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "250/50": {
+            "250/50 mcg/dosis": {
                 "Unidades": {
-                    "60": {
+                    "60 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2689,13 +1691,14 @@
                             15414.0352740024,
                             16452.1705497065,
                             17561.8694532842
-                        ]
+                        ],
+                        "Forma Farmaceutica": "C\u00e1psulas para inhalar+aplicador"
                     }
                 }
             },
-            "500/50": {
+            "500/50 mcg/dosis": {
                 "Unidades": {
-                    "60": {
+                    "60 dosis": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2715,7 +1718,8 @@
                             16374.5774751791,
                             17477.4052681324,
                             18656.2562534679
-                        ]
+                        ],
+                        "Forma Farmaceutica": "C\u00e1psulas para inhalar+aplicador"
                     }
                 }
             }
@@ -2723,31 +1727,9 @@
     },
     "furosemida": {
         "Potencia": {
-            "40": {
+            "40 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2381.01,
-                            2517.29574350897,
-                            2659.52295301723,
-                            2809.91897601035,
-                            3002.39842586706,
-                            3280.12028025977,
-                            3501.03638113526,
-                            3737.18128504284
-                        ]
-                    },
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2767,7 +1749,8 @@
                             5515.56053652102,
                             5887.03353865571,
                             6284.11395083804
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2775,9 +1758,9 @@
     },
     "gabapentin": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2797,35 +1780,14 @@
                             3579.40673522978,
                             3820.4797788475,
                             4078.17113993077
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "300": {
+            "300 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            4442.07,
-                            4696.32271230861,
-                            4961.66494555404,
-                            5242.24709822512,
-                            5601.34102445354,
-                            6119.4650692155,
-                            6531.61104162716,
-                            6972.16820638491
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2845,13 +1807,14 @@
                             11111.2193880593,
                             11859.5600138451,
                             12659.4873367789
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "600": {
+            "600 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2871,7 +1834,8 @@
                             8145.59664593649,
                             8694.20258004031,
                             9280.62654406403
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2879,9 +1843,9 @@
     },
     "gemfibrozil": {
         "Potencia": {
-            "600": {
+            "600 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2901,7 +1865,8 @@
                             5159.62676734662,
                             5507.12763012741,
                             5878.58338877951
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -2909,9 +1874,9 @@
     },
     "haloperidol": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2931,13 +1896,14 @@
                             9925.64419566519,
                             10594.1363322432,
                             11308.710827853
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "2": {
+            "2 mg/ml": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 30 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2957,13 +1923,14 @@
                             2416.67134200122,
                             2579.43415688501,
                             2753.4169907669
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Gotas orales"
                     }
                 }
             },
-            "50": {
+            "50 mg/ml": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 3 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -2983,7 +1950,8 @@
                             6059.23683685183,
                             6467.3264378138,
                             6903.54760604434
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Ampollas/Frascos-Ampolla/Liofilizados/Soluc.Parent"
                     }
                 }
             }
@@ -2991,9 +1959,9 @@
     },
     "hidroclorotiazida": {
         "Potencia": {
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3013,7 +1981,8 @@
                             1388.54246643368,
                             1482.06080154799,
                             1582.0258026124
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3021,31 +1990,9 @@
     },
     "hidroxicloroquina": {
         "Potencia": {
-            "200": {
+            "200 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2645.13,
-                            2796.5328612208,
-                            2954.53696787977,
-                            3121.61603341337,
-                            3335.44673170219,
-                            3643.97555438464,
-                            3889.39730797245,
-                            4151.73715639519
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3065,7 +2012,8 @@
                             5610.57337755576,
                             5988.44549453415,
                             6392.36614314047
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3073,9 +2021,9 @@
     },
     "indapamida": {
         "Potencia": {
-            "1.5": {
+            "1.5 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3095,7 +2043,8 @@
                             2059.52119864833,
                             2198.2299513773,
                             2346.5005615977
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3103,9 +2052,9 @@
     },
     "ipratropio,bromuro": {
         "Potencia": {
-            "25": {
+            "25 mg/100 ml": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 20 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3125,7 +2074,8 @@
                             2160.08666722554,
                             2305.56850426318,
                             2461.07909987573
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             }
@@ -3133,31 +2083,9 @@
     },
     "lamotrigina": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            6350.19,
-                            6713.66314958143,
-                            7092.98511753279,
-                            7494.09342592926,
-                            8007.43882560542,
-                            8748.12691697392,
-                            9337.31326483212,
-                            9967.11504454504
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3177,13 +2105,14 @@
                             13760.1386891824,
                             14686.8840298988,
                             15677.5143577155
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "200": {
+            "200 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3203,13 +2132,14 @@
                             14836.2620610587,
                             15835.484310871,
                             16903.5877276393
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "25": {
+            "25 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3229,13 +2159,14 @@
                             3550.57964693103,
                             3789.71118615183,
                             4045.32720565778
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3255,7 +2186,8 @@
                             5572.94302607307,
                             5948.28073887909,
                             6349.49227471649
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3263,9 +2195,9 @@
     },
     "latanoprost": {
         "Potencia": {
-            "50": {
+            "50 mcg/ml": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 2.5 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3285,7 +2217,8 @@
                             3618.0409345475,
                             3861.71599148928,
                             4122.18873511523
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Gotas oft\u00e1lmicas/Colirios"
                     }
                 }
             }
@@ -3293,9 +2226,9 @@
     },
     "leflunomida": {
         "Potencia": {
-            "20": {
+            "20 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3315,7 +2248,8 @@
                             6961.24234955797,
                             7430.0820218007,
                             7931.24105417115
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3323,9 +2257,9 @@
     },
     "levodopa+carbidopa": {
         "Potencia": {
-            "100/25": {
+            "100/25 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3345,35 +2279,14 @@
                             2969.03654071945,
                             3169.00115173691,
                             3382.75027942156
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "250/25": {
+            "250/25 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2948.12,
-                            3116.86686248345,
-                            3292.96984021377,
-                            3479.18728467786,
-                            3717.51161367829,
-                            4061.38143794353,
-                            4334.91547778903,
-                            4627.3055267659
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3393,7 +2306,8 @@
                             7478.26166657574,
                             7981.92258981962,
                             8520.30326850295
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3401,31 +2315,9 @@
     },
     "levomepromazina": {
         "Potencia": {
-            "25": {
+            "25 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2997.22,
-                            3168.7764323378,
-                            3347.81230076489,
-                            3537.13108637314,
-                            3779.4245657897,
-                            4129.02133812525,
-                            4407.11092524799,
-                            4704.37055715596
-                        ]
-                    },
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3445,7 +2337,8 @@
                             6398.21183282215,
                             6829.13139976272,
                             7289.75631267672
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3453,9 +2346,9 @@
     },
     "levotiroxina": {
         "Potencia": {
-            "100": {
+            "100 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3475,13 +2368,14 @@
                             3814.27547576783,
                             4071.16692906079,
                             4345.76713842594
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "112": {
+            "112 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3501,13 +2395,14 @@
                             4342.6366906785,
                             4635.11327179569,
                             4947.75166197831
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "125": {
+            "125 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3527,13 +2422,14 @@
                             4813.46544177347,
                             5137.65233927691,
                             5484.18698956114
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "137": {
+            "137 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3553,13 +2449,14 @@
                             5206.63842352187,
                             5557.30552134607,
                             5932.14577876086
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "150": {
+            "150 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3579,13 +2476,14 @@
                             5378.62951197849,
                             5740.88020961024,
                             6128.10257974845
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "175": {
+            "175 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3605,13 +2503,14 @@
                             6200.971559668,
                             6618.60699421164,
                             7065.03203597122
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "200": {
+            "200 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3631,13 +2530,14 @@
                             6620.64928954724,
                             7066.55001919825,
                             7543.18881799317
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "25": {
+            "25 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3657,13 +2557,14 @@
                             1292.00482424861,
                             1379.02134916176,
                             1472.03633916272
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3683,13 +2584,14 @@
                             1864.29257777171,
                             1989.85268288463,
                             2124.0682463452
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "75": {
+            "75 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3709,13 +2611,14 @@
                             2585.9841840286,
                             2760.15021882293,
                             2946.32235108253
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "88": {
+            "88 mcg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3735,7 +2638,8 @@
                             3383.68165432212,
                             3611.57261374072,
                             3855.17318653753
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3743,31 +2647,9 @@
     },
     "losart\u00e1n": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3815.86,
-                            4034.26936203937,
-                            4262.2055809946,
-                            4503.23330659985,
-                            4811.70478810193,
-                            5256.78748100136,
-                            5610.83211784681,
-                            5989.28274419557
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3787,35 +2669,14 @@
                             9574.52806709548,
                             10219.3725324144,
                             10908.6692097257
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2917.35,
-                            3084.33626386664,
-                            3258.6012627751,
-                            3442.87516418504,
-                            3678.71211293171,
-                            4018.9929833779,
-                            4289.6721608084,
-                            4579.01054805492
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3835,7 +2696,8 @@
                             8002.29962840408,
                             8541.25450837709,
                             9117.36212496713
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -3843,31 +2705,9 @@
     },
     "mesalazina": {
         "Potencia": {
-            "1200": {
+            "1200 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            19557.26,
-                            20676.6809868595,
-                            21844.913462617,
-                            23080.243318928,
-                            24661.2399862746,
-                            26942.404685005,
-                            28756.9756405401,
-                            30696.6336474945
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3887,13 +2727,14 @@
                             53653.140582856,
                             57266.6796011114,
                             61129.3171402063
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "2": {
+            "2 g": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3913,13 +2754,14 @@
                             50135.2809491426,
                             53511.8921210673,
                             57121.2692446333
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Granulados"
                     }
                 }
             },
-            "4": {
+            "4 g": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -3939,79 +2781,14 @@
                             83496.1138469808,
                             89119.5771145749,
                             95130.692590953
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Granulados"
                     }
                 }
             },
-            "500": {
+            "500 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            8536.59,
-                            9025.20668856126,
-                            9535.13086646498,
-                            10074.3425169636,
-                            10764.4349793756,
-                            11760.1452149678,
-                            12552.1909951959,
-                            13398.8362778219
-                        ]
-                    },
-                    "50": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            16237.38,
-                            17166.7760137023,
-                            18136.6988584764,
-                            19162.3291789233,
-                            20474.9487276795,
-                            22368.8814849899,
-                            23875.425653004,
-                            25485.8231132991
-                        ]
-                    },
-                    "60": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            15840.32,
-                            16746.9904576799,
-                            17693.1954185388,
-                            18693.7456194572,
-                            19974.26719439,
-                            21821.8869098711,
-                            23291.5909932509,
-                            24862.6088057457
-                        ]
-                    },
-                    "100": {
+                    "100 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4031,13 +2808,14 @@
                             41406.3778689374,
                             44195.0974184104,
                             47176.0567392821
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "800": {
+            "800 mg": {
                 "Unidades": {
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4057,7 +2835,8 @@
                             32225.5654040417,
                             34395.9572340039,
                             36715.9645494375
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4065,9 +2844,9 @@
     },
     "metotrexato": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "10": {
+                    "10 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4087,13 +2866,14 @@
                             2181.1311086546,
                             2328.03028882249,
                             2485.05593180356
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "15": {
+            "15 mg": {
                 "Unidades": {
-                    "4": {
+                    "4 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4113,13 +2893,14 @@
                             2122.1507149192,
                             2265.077565569,
                             2417.85704736663
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "2.5": {
+            "2.5 mg": {
                 "Unidades": {
-                    "20": {
+                    "20 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4139,13 +2920,14 @@
                             1190.83145119698,
                             1271.0339494351,
                             1356.7651893245
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "7.5": {
+            "7.5 mg": {
                 "Unidades": {
-                    "10": {
+                    "10 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4165,7 +2947,8 @@
                             2027.54710014153,
                             2164.10239733606,
                             2310.07110403637
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4173,9 +2956,9 @@
     },
     "montelukast": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4195,13 +2978,14 @@
                             6864.54286328689,
                             7326.86982512926,
                             7821.06719483423
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "4": {
+            "4 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "enero",
@@ -4237,13 +3021,14 @@
                             6831.41025685235,
                             7442.88432456084,
                             7292.18887867704
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Jarabe/Suspensi\u00f3n oral/Polvo para uso oral"
                     }
                 }
             },
-            "5": {
+            "5 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4263,7 +3048,8 @@
                             6659.72248388291,
                             7108.25479317243,
                             7587.70657897191
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4271,31 +3057,9 @@
     },
     "olanzapina": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "14": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            10081.61,
-                            10658.6574326841,
-                            11260.8715776307,
-                            11897.6738653457,
-                            12712.6645251219,
-                            13888.5859936957,
-                            14823.9822603711,
-                            15823.8598638331
-                        ]
-                    },
-                    "28": {
+                    "28 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4315,13 +3079,14 @@
                             29522.7126446106,
                             31511.0673412251,
                             33636.4888333907
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "2.5": {
+            "2.5 mg": {
                 "Unidades": {
-                    "28": {
+                    "28 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4341,57 +3106,14 @@
                             11779.1693372649,
                             12572.4963921297,
                             13420.5112737789
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "5": {
+            "5 mg": {
                 "Unidades": {
-                    "14": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            5543.39,
-                            5860.68129897986,
-                            6191.80979237222,
-                            6541.95663613087,
-                            6990.08066570584,
-                            7636.66312728363,
-                            8150.99238890618,
-                            8700.7768255379
-                        ]
-                    },
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            10325.39,
-                            10916.3932388326,
-                            11533.1694568266,
-                            12185.3701896101,
-                            13020.0680475984,
-                            14224.4243420013,
-                            15182.4393214351,
-                            16206.4948536659
-                        ]
-                    },
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4411,7 +3133,8 @@
                             11886.2155404483,
                             12686.7521570975,
                             13542.4735900937
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4419,31 +3142,9 @@
     },
     "orlistat": {
         "Potencia": {
-            "120": {
+            "120 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            9670.85,
-                            10224.3847856464,
-                            10802.0625260354,
-                            11412.9191618827,
-                            12194.7041244717,
-                            13322.7142559853,
-                            14219.9990611259,
-                            15179.1379977989
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4463,35 +3164,14 @@
                             24582.0931437329,
                             26237.6971169633,
                             28007.4297875025
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "60": {
+            "60 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            5793.28,
-                            6124.87869011809,
-                            6470.93433610976,
-                            6836.86567281676,
-                            7305.19097140471,
-                            7980.92113625965,
-                            8518.43617478674,
-                            9093.0046947761
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4511,7 +3191,8 @@
                             12114.1832039403,
                             12930.0734427256,
                             13802.2068964375
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4519,31 +3200,9 @@
     },
     "oxcarbazepina": {
         "Potencia": {
-            "300": {
+            "300 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            8300.82,
-                            8775.94000065521,
-                            9271.78061069223,
-                            9796.09980422687,
-                            10467.1326408164,
-                            11435.3424100919,
-                            12205.5127214116,
-                            13028.7745544708
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4563,35 +3222,14 @@
                             20417.1450562504,
                             21792.2397757889,
                             23262.1263486658
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "600": {
+            "600 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            15872.67,
-                            16781.1931331142,
-                            17729.3305451352,
-                            18731.9241874626,
-                            20015.0609943038,
-                            21866.4541362769,
-                            23339.1598223551,
-                            24913.386152373
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4611,7 +3249,8 @@
                             37533.2917567351,
                             40061.1589565512,
                             42763.2841281706
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4619,31 +3258,9 @@
     },
     "pramipexol": {
         "Potencia": {
-            "0.25": {
+            "0.25 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2693.33,
-                            2847.48869372749,
-                            3008.37180492309,
-                            3178.49523049149,
-                            3396.22215378016,
-                            3710.37270300482,
-                            3960.2663045522,
-                            4227.38626679424
-                        ]
-                    },
-                    "100": {
+                    "100 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4663,13 +3280,14 @@
                             15835.9437768484,
                             16902.4945902192,
                             18042.5678503294
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "0.75": {
+            "0.75 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4689,57 +3307,14 @@
                             12962.5680187374,
                             13835.5969747994,
                             14768.8079907496
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "1": {
+            "1 mg": {
                 "Unidades": {
-                    "30": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            10048.86,
-                            10624.0371718252,
-                            11224.2952720333,
-                            11859.0291696668,
-                            12671.372667789,
-                            13843.4746395595,
-                            14775.8326565338,
-                            15772.462569217
-                        ]
-                    },
-                    "60": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            18630.11,
-                            19696.4541482822,
-                            20809.3038076602,
-                            21986.0699379834,
-                            23492.1157287352,
-                            25665.1364336432,
-                            27393.6833724491,
-                            29241.3873159208
-                        ]
-                    },
-                    "100": {
+                    "100 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4759,13 +3334,14 @@
                             56462.9739788327,
                             60265.7552763071,
                             64330.680469694
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "1.5": {
+            "1.5 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4785,13 +3361,14 @@
                             23279.7392474485,
                             24847.6296857642,
                             26523.602308069
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "3": {
+            "3 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4811,7 +3388,8 @@
                             47753.8403704057,
                             50970.0615193526,
                             54407.9921688329
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -4819,9 +3397,9 @@
     },
     "risperidona": {
         "Potencia": {
-            "0.25": {
+            "0.25 mg": {
                 "Unidades": {
-                    "20": {
+                    "20 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4841,35 +3419,14 @@
                             564.196726784035,
                             602.19537633294,
                             642.813454466597
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "0.5": {
+            "0.5 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1009.92,
-                            1067.72501056049,
-                            1128.05147365716,
-                            1191.84278449248,
-                            1273.48401523021,
-                            1391.281286639,
-                            1484.98408129414,
-                            1585.14625757743
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4889,35 +3446,14 @@
                             3715.28567900826,
                             3965.51016948947,
                             4232.98383042153
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "1": {
+            "1 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            1769.03,
-                            1870.28197522006,
-                            1975.95290681999,
-                            2087.69304370066,
-                            2230.70001719415,
-                            2437.03976878461,
-                            2601.17439721226,
-                            2776.62361030422
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4937,9 +3473,14 @@
                             6214.12972879394,
                             6632.65136602822,
                             7080.02370066682
-                        ]
-                    },
-                    "1": {
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
+                    }
+                }
+            },
+            "1 mg/ml": {
+                "Unidades": {
+                    "1 unidades de 30 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -4959,35 +3500,14 @@
                             5552.68821044668,
                             5926.66176142027,
                             6326.41509722806
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Jarabe/Suspensi\u00f3n oral/Polvo para uso oral"
                     }
                 }
             },
-            "2": {
+            "2 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            3531.35,
-                            3733.47540894046,
-                            3944.4167695456,
-                            4167.4735378634,
-                            4452.94547520705,
-                            4864.8429316637,
-                            5192.49010311125,
-                            5542.7235605661
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5007,35 +3527,14 @@
                             14416.4818362053,
                             15387.4318878738,
                             16425.3141687109
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "3": {
+            "3 mg": {
                 "Unidades": {
-                    "20": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            4179.42,
-                            4418.63650223641,
-                            4668.28946461277,
-                            4932.28123383662,
-                            5270.14249835443,
-                            5757.63067945221,
-                            6145.40710571332,
-                            6559.91481499368
-                        ]
-                    },
-                    "60": {
+                    "60 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5055,7 +3554,8 @@
                             18945.9216463838,
                             20221.9294692678,
                             21585.8986119699
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -5063,9 +3563,9 @@
     },
     "salbutamol": {
         "Potencia": {
-            "0.5": {
+            "0.5 g %": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 20 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5085,35 +3585,14 @@
                             1304.36611379155,
                             1392.21517155541,
                             1486.12008487682
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             },
-            "100": {
+            "100 mcg/dosis": {
                 "Unidades": {
-                    "200": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2347.38,
-                            2481.7390964974,
-                            2621.9573554495,
-                            2770.22904390017,
-                            2959.98973340733,
-                            3233.78878374751,
-                            3451.58445833291,
-                            3684.39383004746
-                        ]
-                    },
-                    "250": {
+                    "250 dosis": {
                         "Meses": [
                             "enero",
                             "enero",
@@ -5149,7 +3628,8 @@
                             2415.5175269585,
                             3704.24890943627,
                             2578.44418415185
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Sprays/Aerosoles/Soluciones para nebulizar"
                     }
                 }
             }
@@ -5157,9 +3637,9 @@
     },
     "simvastatin": {
         "Potencia": {
-            "10": {
+            "10 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5179,13 +3659,14 @@
                             4030.58584322954,
                             4302.04579977105,
                             4592.21878896561
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "20": {
+            "20 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5205,13 +3686,14 @@
                             5130.00157480065,
                             5475.50718086347,
                             5844.83014021271
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "40": {
+            "40 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5231,7 +3713,8 @@
                             5104.96077142924,
                             5448.77987938499,
                             5816.30008224951
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -5239,9 +3722,9 @@
     },
     "sodio,divalproato": {
         "Potencia": {
-            "125": {
+            "125 mg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5261,13 +3744,14 @@
                             3525.53545218179,
                             3762.98026488624,
                             4016.79328375282
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "250": {
+            "250 mg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5287,13 +3771,14 @@
                             5355.40837121796,
                             5716.09512501949,
                             6101.64574120205
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "500": {
+            "500 mg": {
                 "Unidades": {
-                    "50": {
+                    "50 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5313,7 +3798,8 @@
                             9590.92650931957,
                             10236.8754097222,
                             10927.352656108
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -5321,9 +3807,9 @@
     },
     "timolol,maleato": {
         "Potencia": {
-            "0.5": {
+            "0.5 g %": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 5 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5343,7 +3829,8 @@
                             2667.473717592,
                             2847.12807247182,
                             3039.16686096004
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Gotas oft\u00e1lmicas/Colirios"
                     }
                 }
             }
@@ -5351,31 +3838,9 @@
     },
     "topiramato": {
         "Potencia": {
-            "100": {
+            "100 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            7444.94,
-                            7871.07287187218,
-                            8315.78848913296,
-                            8786.04632819343,
-                            9387.89050167468,
-                            10256.2703730796,
-                            10947.0301827065,
-                            11685.4073685301
-                        ]
-                    },
-                    "56": {
+                    "56 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5395,35 +3860,14 @@
                             20302.7305195212,
                             21670.1194200109,
                             23131.7689748906
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "25": {
+            "25 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            2738.33,
-                            2895.06798370195,
-                            3058.63932478111,
-                            3231.60537859748,
-                            3452.97034703141,
-                            3772.37010413181,
-                            4026.43923064509,
-                            4298.0225567521
-                        ]
-                    },
-                    "56": {
+                    "56 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5443,35 +3887,14 @@
                             6884.05986582731,
                             7347.70129779078,
                             7843.30375032677
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             },
-            "50": {
+            "50 mg": {
                 "Unidades": {
-                    "28": {
-                        "Meses": [
-                            "enero",
-                            "febrero",
-                            "marzo",
-                            "abril",
-                            "mayo",
-                            "junio",
-                            "julio",
-                            "agosto"
-                        ],
-                        "Precios": [
-                            5005.86,
-                            5292.37992512438,
-                            5591.39939089391,
-                            5907.59302644896,
-                            6312.26314876071,
-                            6896.14749002108,
-                            7360.603023474,
-                            7857.07569740732
-                        ]
-                    },
-                    "56": {
+                    "56 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5491,7 +3914,8 @@
                             13346.7342546326,
                             14245.6368066821,
                             15206.5050092928
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }
@@ -5499,9 +3923,9 @@
     },
     "valproico,\u00e1c.": {
         "Potencia": {
-            "250": {
+            "250 mg/5 ml": {
                 "Unidades": {
-                    "1": {
+                    "1 unidades de 120 ml": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5521,7 +3945,8 @@
                             2283.58708195717,
                             2437.38667192698,
                             2601.78840294846
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Jarabe/Suspensi\u00f3n oral/Polvo para uso oral"
                     }
                 }
             }
@@ -5529,9 +3954,9 @@
     },
     "verapamilo": {
         "Potencia": {
-            "240": {
+            "240 mg": {
                 "Unidades": {
-                    "30": {
+                    "30 unidades": {
                         "Meses": [
                             "enero",
                             "febrero",
@@ -5551,7 +3976,8 @@
                             6268.01796873103,
                             6690.16897892507,
                             7141.42087655356
-                        ]
+                        ],
+                        "Forma Farmaceutica": "Comprimidos/Pastillas/Tabletas/Grageas"
                     }
                 }
             }

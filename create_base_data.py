@@ -19,12 +19,14 @@ def create_base():
         for index, row in df.iterrows():
             drug = row['Principio activo']
             power = row['Potencia']
+            unit_power_type = row['Unidad de potencia']
             units = row['Unidades']
+            prod_type = row['Tipo']
             if drug in base.keys():
                 if power in base[drug]['Potencia'].keys():
-                    base[drug]['Potencia'][power]['Unidades'].update({units: {'Meses': [], 'Precios': []}})
+                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'].update({F'{units} {prod_type}': {'Meses': [], 'Precios': []}})
                 else:
-                    base[drug]['Potencia'].update({power: {'Unidades': {units: {'Meses': [], 'Precios': []}}}})
+                    base[drug]['Potencia'].update({F'{power} {unit_power_type}': {'Unidades': {F'{units} {prod_type}': {'Meses': [], 'Precios': []}}}})
 
     def set_prices():
         for month in months:
@@ -34,10 +36,14 @@ def create_base():
                 drug = row['Principio activo']
                 power = row['Potencia']
                 units = row['Unidades']
+                unit_power_type = row['Unidad de potencia']
+                prod_type = row['Tipo']
+                prod_form = row['Forma farmacéutica']
                 price = row['Precio de referencia']
                 try:
-                    base[drug]['Potencia'][power]['Unidades'][units]['Meses'].append(month)
-                    base[drug]['Potencia'][power]['Unidades'][units]['Precios'].append(price)
+                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['Meses'].append(month)
+                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['Precios'].append(price)
+                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['Forma Farmaceutica'] = prod_form
                 except:
                     pass
                 
