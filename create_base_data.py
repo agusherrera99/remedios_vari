@@ -24,11 +24,13 @@ def create_base():
             prod_type = row['Tipo']
             if drug in base.keys():
                 if power in base[drug]['Potencia'].keys():
-                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'].update({F'{units} {prod_type}': {'Meses': [], 'Precios': []}})
+                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'].update({F'{units} {prod_type}': {'Meses': [], 'Precios': [], 'USD_Precios': []}})
                 else:
-                    base[drug]['Potencia'].update({F'{power} {unit_power_type}': {'Unidades': {F'{units} {prod_type}': {'Meses': [], 'Precios': []}}}})
+                    base[drug]['Potencia'].update({F'{power} {unit_power_type}': {'Unidades': {F'{units} {prod_type}': {'Meses': [], 'Precios': [], 'USD_Precios': []}}}})
 
     def set_prices():
+        dls_vpm = pd.read_excel('xlsxs/dollar_value_per_month.xlsx')
+
         for month in months:
             df = pd.read_excel(F'xlsxs/{month}.xlsx')
 
@@ -44,6 +46,7 @@ def create_base():
                     base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['Meses'].append(month)
                     base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['Precios'].append(price)
                     base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['Forma Farmaceutica'] = prod_form
+                    base[drug]['Potencia'][F'{power} {unit_power_type}']['Unidades'][F'{units} {prod_type}']['USD_Precios'].append(price / dls_vpm[month].values[0])
                 except:
                     pass
                 
